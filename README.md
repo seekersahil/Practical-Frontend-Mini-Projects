@@ -1,5 +1,5 @@
-# Practical-Frontend-Mini-Projects
-Some unique mini-projects built with HTML, CSS &amp; Vanilla JavaScript
+# Practical Frontend Mini Projects
+Some unique mini-projects built with HTML, CSS &amp; Vanilla JavaScript, that can be used as widgets and elements in bigger projects.
 
 |  #  |         Project Name         |      Live Demo    |
 | :-: | :-------------------------: | :-------:    |
