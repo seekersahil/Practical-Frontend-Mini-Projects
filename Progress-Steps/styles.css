@@ -73,6 +73,8 @@ body {
 
 .circle.active {
   border-color: var(--line-border-fill);
+  background-color: var(--line-border-fill);
+  color: #fff;
 }
 
 .btn {
