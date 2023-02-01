@@ -2,17 +2,17 @@
 
 Some unique mini-projects built with HTML, CSS &amp; Vanilla JavaScript, that can be used as widgets and elements in bigger projects.
 
-|  #  |                                                          Project Name                                                          |                                        Live Demo                                         |
-| :-: | :----------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: |
-| 01  |          [Expanding Cards](https://github.com/seekersahil/Practical-Frontend-Mini-Projects/tree/main/Expanding-Cards)          |   [Live Demo](https://dev.seekersahil.com/projects/DOM/mini-projects/Expanding-Cards/)   |
-| 02  |           [Progress Steps](https://github.com/seekersahil/Practical-Frontend-Mini-Projects/tree/main/Progress-Steps)           |   [Live Demo](https://dev.seekersahil.com/projects/DOM/mini-projects/Progress-Steps/)    |
-| 03  | [Rotating Navigation Animation](https://github.com/seekersahil/Practical-Frontend-Mini-Projects/tree/main/Rotating-Navigation) | [Live Demo](https://dev.seekersahil.com/projects/DOM/mini-projects/Rotating-Navigation/) |
+|  #  |                                                          Project Name                                                          |                                         Live Demo                                         |
+| :-: | :----------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: |
+| 01  |          [Expanding Cards](https://github.com/seekersahil/Practical-Frontend-Mini-Projects/tree/main/Expanding-Cards)          |   [Live Demo](https://dev.seekersahil.com/projects/DOM/mini-projects/Expanding-Cards/)    |
+| 02  |           [Progress Steps](https://github.com/seekersahil/Practical-Frontend-Mini-Projects/tree/main/Progress-Steps)           |    [Live Demo](https://dev.seekersahil.com/projects/DOM/mini-projects/Progress-Steps/)    |
+| 03  | [Rotating Navigation Animation](https://github.com/seekersahil/Practical-Frontend-Mini-Projects/tree/main/Rotating-Navigation) | [Live Demo](https://dev.seekersahil.com/projects/DOM/mini-projects/Rotating-Navigation/)  |
+| 04  |     [Hidden Search Widget](https://github.com/seekersahil/Practical-Frontend-Mini-Projects/tree/main/Hidden-Search-Widget)     | [Live Demo](https://dev.seekersahil.com/projects/DOM/mini-projects/Hidden-Search-Widget/) |
 
 ## Upcoming Projects
 
 |  #  |           Project            |
 | :-: | :--------------------------: |
-| 04  |     Hidden Search Widget     |
 | 05  |        Blurry Loading        |
 | 06  |       Scroll Animation       |
 | 07  |      Split Landing Page      |
